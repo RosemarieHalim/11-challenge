@@ -32,8 +32,10 @@ Deploy a note taking app to help business owners organize and track tasks.
 ## Built With
 * JavaScript
 * Node.js
-* Inquirer
+* Sequelize
 * MySql2
+* Express.js
+* Dotenv
 
 ## Website
 https://rosemariehalim.github.io/11-challenge/
@@ -42,11 +44,11 @@ https://rosemariehalim.github.io/11-challenge/
 
 ## Process
 
+* downloaded start-up code
+* reviewed code
 * planned out code
-* installed inquirer, mysql2, and console.table packages
-* created server.js file
-* created db folder with db, schema, and seeds sql files
+* installed sequelize and mysql2 packages
 * used module reference code
-* cleaned up and tested SQL code
-* worked on server.js file and inquirer code
+* cleaned up and tested code
+* worked on routes files and index files
 * tested and fixed code

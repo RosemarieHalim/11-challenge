@@ -25,7 +25,7 @@ router.get('/:id', (req, res) => {
     },
     include:{  
       model: Product,
-      attributes: ['product_id']
+      attributes: ['category_id']
     }
   }).then(categoryData => res.json(categoryData))
   .catch(err => {
