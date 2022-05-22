@@ -37,9 +37,6 @@ Deploy a note taking app to help business owners organize and track tasks.
 * Express.js
 * Dotenv
 
-## Website
-https://rosemariehalim.github.io/11-challenge/
-
 ---
 
 ## Process
