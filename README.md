@@ -27,7 +27,7 @@ THEN I am able to successfully create, update, and delete data in my database
 ![Video](dist/recording.mp4)
 
 ## Purpose
-Deploy a note taking app to help business owners organize and track tasks.
+Create a back-end application for e-commerce website to create, update, and delete data
 
 ## Built With
 * JavaScript
